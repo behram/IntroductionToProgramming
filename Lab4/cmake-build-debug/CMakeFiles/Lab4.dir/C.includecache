@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/private/var/www/IntroductionToProgramming/Lab4/bool.h
+stdio.h
+-
+const.h
+/private/var/www/IntroductionToProgramming/Lab4/const.h
+
+/private/var/www/IntroductionToProgramming/Lab4/const.h
+
+/private/var/www/IntroductionToProgramming/Lab4/main.c
+stdio.h
+-
+const.h
+/private/var/www/IntroductionToProgramming/Lab4/const.h
+bool.h
+/private/var/www/IntroductionToProgramming/Lab4/bool.h
+token_functions.h
+/private/var/www/IntroductionToProgramming/Lab4/token_functions.h
+
+/private/var/www/IntroductionToProgramming/Lab4/token_functions.h
+stdio.h
+-
+ctype.h
+-
+bool.h
+/private/var/www/IntroductionToProgramming/Lab4/bool.h
+const.h
+/private/var/www/IntroductionToProgramming/Lab4/const.h
+

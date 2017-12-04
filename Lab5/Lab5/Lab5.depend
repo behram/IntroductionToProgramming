@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1512344134 source:/private/var/www/IntroductionToProgramming/Lab5/Lab5/config.c
+	"config.h"
+
+1512344134 /private/var/www/IntroductionToProgramming/Lab5/Lab5/config.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1512348808 source:/private/var/www/IntroductionToProgramming/Lab5/Lab5/main.c
+	<stdio.h>
+	"config.h"
+	"selectors.h"
+
+1512344134 /private/var/www/IntroductionToProgramming/Lab5/Lab5/selectors.h
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	"config.h"
+	"consts.h"
+
+1512344134 /private/var/www/IntroductionToProgramming/Lab5/Lab5/consts.h
+
+1512348069 source:/private/var/www/IntroductionToProgramming/Lab5/Lab5/selectors.c
+	"selectors.h"
+
