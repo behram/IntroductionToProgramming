@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1511804725 source:c:\users\patry\documents\i2p\labs\7\lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1511804702 c:\users\patry\documents\i2p\labs\7\lab7\func.h
+
+1512256528 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\lab7\func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1512252450 c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\lab7\func.h
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1512252391 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"func.h"
+
+1512256383 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\lab7\linecalc.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1512253709 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\lab7\operations.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1512256528 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1512252450 c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\func.h
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1512253709 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\operations.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1512386111 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"func.h"
+
+1512386063 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\7\linecalc.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
