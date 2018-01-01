@@ -5,27 +5,26 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-typedef struct
-{
-    char name[20];
-    char * remarks;
-    int age;
-    float weight;
-} personalData;
+struct personalData{
+  char name[20];
+  char *remarks;
+  float weight;
+  int age;
+} ;
 
-int readPtrData(personalData ar[], int len);
-personalData getPersonPtr(char * line);
+int readPtrData(struct personalData * ar[], int len);
+struct personalData * getPersonPtr(char * line);
 int semicolonCounter(char *line);
 
-void weightSort(personalData data[], int len);
+void weightSort(struct personalData *data[], int len);
 int cmpWeight(const void *a, const void *b);
 
-void remarkstSort(personalData data[], int len);
+void remarkstSort(struct personalData * data[], int len);
 int cmpRemarks(const void *a, const void *b);
 
-void printAllData(personalData data[],int len);
-void printData (personalData data[], int len);
-void printPtrData (personalData data[], int len);
+void printAllData(struct personalData * data[],int len);
+void printData (struct personalData data[], int len);
+void printPtrData (struct personalData * data[], int len);
 
 
 #endif
