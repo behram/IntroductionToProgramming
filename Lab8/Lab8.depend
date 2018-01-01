@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513528393 source:c:\users\patry\documents\i2p\labs\8\lab8\labs.c
+	"labs.h"
+
+1513526455 c:\users\patry\documents\i2p\labs\8\lab8\labs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513526459 source:c:\users\patry\documents\i2p\labs\8\lab8\main.c
+	"labs.h"
+
+1513526459 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\8\main.c
+	"labs.h"
+
+1513526455 c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\8\labs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513528452 source:c:\users\patry\documents\i2p\git\patryk-szwed\introductiontoprogramming\8\labs.c
+	"labs.h"
+
