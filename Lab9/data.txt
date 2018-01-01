@@ -4,9 +4,3 @@ John;21;73.6;exceptionally good student;
 kalem;10;56.1;exceptionally good student;
 John;21;73.6;exceptionally good student;
 zalim;21;12.3;bad student;
-John;21;73.6;exceptionally good student;
-John;90;73.6;exceptionally good student;
-komr;21;73.6;exceptionally good student;
-John;21;73.6;exceptionally good student;
-John;21;73.6;exceptionally good student;
-

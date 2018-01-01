@@ -1,23 +1,22 @@
-#include "func.h"
+#include "Functions.h"
 
-
-int
-main(){
+int main(){
   struct personalData *data[10];
   int len = readPtrData(data,sizeof(data)/sizeof(*data));
+  puts("\n -- first order --");
   printAllData(data,len);
 
   weightSort(data,len);
-  puts("after weight sort");
+  puts("\n-- after weight sort --");
   printAllData(data,len);
 
   remarkstSort(data,len);
-  puts("after remarks sort");
+  puts("\n-- after remarks sort --");
   printAllData(data,len);
 
-  puts("index 2:");
-  printData(data[2],len);
-  puts("\n End of work!");
+  puts("\n-- print index (3) --");
+  printData(data[3],len);
+  puts("\n --- All Finished, Good Day ---");
 
   return 0;
 }
